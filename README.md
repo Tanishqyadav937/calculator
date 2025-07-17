@@ -1,30 +1,28 @@
-# calculator
-# Java Swing Calculator
+# Scientific Calculator (JavaScript)
 
-A lightweight and responsive calculator application built using Java Swing. This calculator performs basic arithmetic operations like addition, subtraction, multiplication, division, and percentage calculation.
+A lightweight, responsive **scientific calculator** built using **HTML**, **CSS**, and **JavaScript**. This project is ideal for learning DOM manipulation and basic UI design in web development.
 
-## Features
+## 🔧 Features
 
-- GUI built with Java Swing
-- Operations: `+`, `-`, `×`, `÷`, `%`
-- Functional buttons: `C` (Clear), `<` (Backspace), `.` (Decimal point)
-- Toggle functionality: `On/Off` buttons to enable or disable the calculator
-- Clean and user-friendly layout
+- Built entirely with **vanilla JavaScript**
+- Basic operations: `+`, `-`, `×`, `÷`
+- Functional buttons:  
+  - `C` → Clear  
+  - `←` → Backspace  
+  - `.` → Decimal  
+  - `=` → Calculate
+- Clean and responsive layout
 
-## Screenshots
+## 🚀 How to Run
 
-![Calculator UI](screenshots/calculator.png) 
+### 📦 Prerequisites
 
-## How to Run
+- No installation required — just a browser (Chrome, Firefox, etc.)
 
-### Prerequisites
+### 🧪 Run Locally
 
-- JDK (Java Development Kit) installed (version 8 or above)
-- Any IDE (NetBeans, IntelliJ, Eclipse) **or** use the terminal
-
-### Steps
-
-1. **Clone the Repository:**
+1. Clone the repo:
    ```bash
-   git clone https://github.com/Tanishqyadav937/java-swing-calculator.git
-   cd java-swing-calculator
+   git clone https://github.com/Tanishqyadav937/scientific-calculator.git
+   cd scientific-calculator
+
